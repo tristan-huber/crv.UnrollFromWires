@@ -19,7 +19,7 @@
     },
     {
       "name": "rulings",
-      "ioValue": 10
+      "ioValue": 25
     }
   ],
   "topLevel": true,
@@ -56,7 +56,7 @@
         },
         {
           "name": "numRulings",
-          "ioValue": 10
+          "ioValue": 25
         },
         {
           "name": "holeSamples",
