@@ -103,8 +103,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.2998046875,
-      "y": 0.28750000000000003,
+      "x": 0.2724609375,
+      "y": 0.1,
       "uniqueID": "id-100",
       "name": "util.FuseWire",
       "ioValues": [
@@ -195,8 +195,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.29345703125,
-      "y": 0.5229166666666667,
+      "x": 0.2275390625,
+      "y": 0.2520833333333333,
       "uniqueID": "id-109",
       "name": "util.FuseWire",
       "ioValues": [
