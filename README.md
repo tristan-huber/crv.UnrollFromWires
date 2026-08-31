@@ -2,7 +2,7 @@
 
 # crv.UnrollFromWires
 
-![](/project.svg)
+![](/project.png)
 
 ## Inputs
 
